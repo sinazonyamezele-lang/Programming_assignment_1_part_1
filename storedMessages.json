@@ -1,0 +1,16 @@
+{
+  "0894346332": {
+    "messageNumber": 2,
+    "recipient": "+27687763559",
+    "messageID": "0894346332",
+    "messageHash": "08:2:HELLOHELLO",
+    "message": "hello"
+  },
+  "1218444320": {
+    "messageNumber": 1,
+    "recipient": "+27669992191",
+    "messageID": "1218444320",
+    "messageHash": "12:1:FINEFINE",
+    "message": "Fine"
+  }
+}
